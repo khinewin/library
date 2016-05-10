@@ -1,0 +1,49 @@
+.jumbotron
+{
+    background: #1b6d85;
+    color: #fff;
+    margin-bottom: 0;
+}
+.panel-footer
+{
+    text-align: center;
+    font-size: 12px;
+
+}
+
+.books {
+    list-style: none;
+    margin: 15px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.books li {
+    width: 200px;
+    text-align: center;
+    height: 200px;
+    float: left;
+    margin: 20px 10px;
+    font-size: 15px;
+}
+
+.books b {
+    display: block;
+    margin: 5px 0;
+    font-weight: normal;
+}
+
+.books i {
+    color: #E74C3C;
+}
+
+.paging {
+    text-align: center;
+}
+.paging a {
+    color: #1b6d85;
+    text-decoration: none;
+}
+.paging a:hover {
+    color:	brown;
+}
